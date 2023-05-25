@@ -68,7 +68,7 @@ export default function About() {
                     </div>
                 </div>
 
-                <Link href="/">
+                <Link href="https://drive.google.com/file/d/1VX8hbRRAZ4wckVbrsA7M0VKdWT_VQpZ_/view?usp=share_link">
                     <p className="lg:text-6xl text-4xl text-[#feca52] font-black cursor-pointer">Resume</p>
                 </Link>
             </div>
